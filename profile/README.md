@@ -1,4 +1,4 @@
-<img width="1500" height="500" alt="space-banner-clean" src="https://github.com/user-attachments/assets/9e21534b-5084-4097-aabd-46ef603c0597" />
+<img width="1500" height="500" alt="space-banner" src="https://github.com/Space-VM/.github/blob/main/space-banner.jpg" />
 
 
 ### About Space
