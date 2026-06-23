@@ -13,7 +13,7 @@ Visit our website to get started [spce.me](https://spce.me/)
 
 ### Repositories
 
-- [Space-public](https://github.com/space-vm/space-public) - CLI and othe releases
+- [space-public](https://github.com/space-vm/space-public) - CLI and othe releases
 <br><br>
 
 ### Where to find us
